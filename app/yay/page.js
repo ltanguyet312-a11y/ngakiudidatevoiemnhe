@@ -10,7 +10,7 @@ export default function Yay() {
         src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A1dWF1NG9tMTB4NmlreTRzbXp4NmVsOHB5OHZlOGQ0bzRybTNpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g5FxC58T8Q7e0/giphy.gif' 
       />
 
-      <h2>Yayyy~ Chốt lịch ngày đặc biệt với người đặc biệt nhé! 🥳💖</h2>
+      <h2>Yayyy~ Chốt ngày đặc biệt với người đặc biệt nhé! 🥳💖</h2>
 
       <div className="schedule">
         <div className="schedule-item">
@@ -24,7 +24,7 @@ export default function Yay() {
       </div>
 
       <p className="note">
-        Mặc váy xinh vào đi, tới giờ em đón đi choiii! iuuu &lt;3
+        Mặc váy vào đi, tới giờ em đón đi choiii! iuuu &lt;3
       </p>
     </div>
   );
