@@ -30,7 +30,7 @@ export default function page() {
   return (
     <div className='box'>
       <img alt='gumball' className='gif' src={`/${img}.gif`} />
-      {how ? 'Hmmmph, Theres no choice!' : 'Will you go out with me?'}
+      {how ? 'Hmmmph, Theres no choice!' : 'Tối thứ 3 tuần tới đi chơi với em nhé 18:00 - 20:00?'}
       <div className='btns'>
         <Link className='yes' href='/yay'>
           <button onMouseOver={() => updteImg('sparkle-eyes')} onMouseOut={() => updteImg('puppy-eyes')}>
