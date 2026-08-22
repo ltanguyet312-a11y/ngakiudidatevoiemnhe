@@ -3,7 +3,7 @@ export default function page() {
   return (
     <div className='box'>
       <img alt='yayyy' className='gif' src='/gumball-and-darwing.gif' />
-        <h2>Yayyy~ Chốt lịch mừng sinh nhật chị yêu nè 🥳💖</h2>
+        <h2>Yayyy~ Chốt lịch đi chơi zới người đặc biệt nhân ngày đặc biệt nhé 🥳💖</h2>
       <p style={{ fontSize: '1.2rem', margin: '10px 0' }}>
         📸 <b>18:00 - 18:45:</b> Đi chụp photobooth xinh xẻo
       </p>
