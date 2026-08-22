@@ -3,9 +3,10 @@ export default function page() {
   return (
     <div className='box'>
       <img alt='yayyy' className='gif' src='/gumball-and-darwing.gif' />
-      {'Yayyy~ hẹn chị 18:00 - 18:45, đi chụp photobooth <3'}
-      {'Vàaaa~ ăn tối 18:45 - 20:00 nhá, i luv u <3'}
-      {'Mặc váy vào đi, tới giờ anh đón đi chơi, ps: iu lắm ngakiu oi 😽😽 '}
+       {'Yayyy~ Chốt lịch mừng sinh nhật chị yêu nè 🥳💖'}
+      {'📸 18:00 - 18:45: Đi chụp photobooth '}
+      {'🍕 18:45 - 20:00: Đi ăn tối món chị thích'}
+      {'Mặc váy vào đi, tới giờ em đón đi choiii! iuuu <3'}
     </div>
   )
 
